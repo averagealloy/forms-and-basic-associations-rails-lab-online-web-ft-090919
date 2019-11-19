@@ -1,3 +1,5 @@
+#followed the class lecture litigilously 
+
 class ArtistsController < ApplicationController
   def index
     @artists = Artist.all
